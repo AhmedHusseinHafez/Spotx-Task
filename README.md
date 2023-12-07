@@ -9,8 +9,8 @@ App should send a call to Configuration api and based on the response
 build sections of the screen.
 
 I Just Use Few Packages   
-  http 
-  flutter_bloc
+  http, 
+  flutter_bloc,
   equatable
 
 ## Something I learned from the senior developer who gave me task
